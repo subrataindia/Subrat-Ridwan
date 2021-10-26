@@ -56,7 +56,9 @@ label {
 select {
     width: 93%;
 }
-
+.input{
+	width: 93%;
+}
 .form-inline {
     float: left;
     margin-left: 3%;
