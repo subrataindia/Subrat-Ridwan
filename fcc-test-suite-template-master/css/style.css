@@ -55,10 +55,15 @@ label {
 
 select {
     width: 93%;
+    padding: 3%;
+    border-radius: 10px;
 }
 .input{
 	width: 93%;
     height: 5%;
+    font-size: 14px;
+    padding: 3%;
+    border-radius: 10px;
 }
 .form-inline {
     float: left;
@@ -67,6 +72,10 @@ select {
 
 .form-inline-box {
     display: inline-table;
+}
+
+textarea {
+    border-radius: 10px;  
 }
 
 button {
