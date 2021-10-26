@@ -58,6 +58,7 @@ select {
 }
 .input{
 	width: 93%;
+    height: 5%;
 }
 .form-inline {
     float: left;
