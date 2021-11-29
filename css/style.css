@@ -38,7 +38,7 @@ body::before {
 #survey-form {
     width: 55%;
     height: 90%;
-    background: darkblue;
+    background: rgb(25, 86, 200);
     margin: 5% 22%;
     border-radius: 4%;
 }
@@ -82,7 +82,15 @@ button {
     width: 92%;
     padding-bottom: 1%;
     border-radius: 1.2rem;
-    background: green;
+    border: 5px outset rgb(6, 37, 104);
+    background: rgb(6, 82, 112);
     text-align: center;
     margin: 2% 0;
+    padding:1%;
+    color: #fff;
+    font-size: x-large;
+}
+button:hover{
+    background: rgba(6, 82, 112, 0.5);
+    border: 5px inset rgb(6, 37, 104);
 }
